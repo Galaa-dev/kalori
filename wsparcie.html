@@ -14,8 +14,6 @@
     --separator: rgba(60, 60, 67, .14);
     --accent: #177d48;
     --accent-soft: rgba(23, 125, 72, .10);
-    --todo-bg: #fff1c2;
-    --todo-text: #6b4a00;
     --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Roboto, sans-serif;
   }
@@ -24,14 +22,12 @@
       color-scheme: dark;
       --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
       --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
-      --todo-bg: #4a3a0c; --todo-text: #ffe39a;
     }
   }
   :root[data-theme="dark"] {
     color-scheme: dark;
     --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
     --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
-    --todo-bg: #4a3a0c; --todo-text: #ffe39a;
   }
 
   body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 var(--font); -webkit-text-size-adjust: 100%; }
@@ -45,6 +41,7 @@
   .contact { background: var(--accent-soft); border-radius: 18px; padding: 18px 20px; display: flex; flex-direction: column; gap: 6px; }
   .contact h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 0; }
   .contact p { margin: 0; }
+  .contact .mail { font-weight: 600; font-size: 1.05rem; }
   .contact .hint { color: var(--text-2); font-size: .92rem; }
 
   .topic { display: flex; flex-direction: column; gap: 8px; }
@@ -59,7 +56,6 @@
   .path { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
   a { color: var(--accent); text-underline-offset: 2px; }
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
-  mark.todo { background: var(--todo-bg); color: var(--todo-text); padding: 1px 5px; border-radius: 4px; }
 
   footer { color: var(--text-2); font-size: .9rem; border-top: 1px solid var(--separator); padding-top: 18px; }
 </style>
@@ -77,7 +73,7 @@
 
   <div class="contact">
     <h2>Napisz do nas</h2>
-    <p><mark class="todo">[adres e-mail do kontaktu]</mark></p>
+    <p><a class="mail" href="mailto:kalorihelp@gmail.com">kalorihelp@gmail.com</a></p>
     <p class="hint">Jeśli zgłaszasz błąd, podaj model telefonu i wersję iOS. Jeśli wartości jakiegoś dania z sieci się nie zgadzają, podaj nazwę sieci i dania.</p>
   </div>
 

@@ -14,8 +14,6 @@
     --separator: rgba(60, 60, 67, .14);
     --accent: #177d48;
     --accent-soft: rgba(23, 125, 72, .10);
-    --todo-bg: #fff1c2;
-    --todo-text: #6b4a00;
     --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Roboto, sans-serif;
   }
@@ -24,14 +22,12 @@
       color-scheme: dark;
       --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
       --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
-      --todo-bg: #4a3a0c; --todo-text: #ffe39a;
     }
   }
   :root[data-theme="dark"] {
     color-scheme: dark;
     --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
     --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
-    --todo-bg: #4a3a0c; --todo-text: #ffe39a;
   }
 
   body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 var(--font); -webkit-text-size-adjust: 100%; }
@@ -63,7 +59,6 @@
   th { font-size: .75rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--text-2); }
   td:first-child { font-weight: 600; }
 
-  mark.todo { background: var(--todo-bg); color: var(--todo-text); padding: 1px 5px; border-radius: 4px; }
 
   footer { border-top: 1px solid var(--separator); padding-top: 18px; color: var(--text-2); font-size: .9rem; }
 </style>
@@ -92,7 +87,7 @@
 
   <section>
     <h2><span class="no">1.</span>Kto odpowiada za Twoje dane</h2>
-    <p>Administratorem danych jest <mark class="todo">[imię i nazwisko lub nazwa firmy, adres]</mark>, twórca aplikacji Kalori. W sprawach prywatności napisz na adres <mark class="todo">[adres e-mail do kontaktu]</mark>.</p>
+    <p>Administratorem danych jest Kacper Gołkowski, twórca aplikacji Kalori. W sprawach prywatności napisz na adres <a href="mailto:kalorihelp@gmail.com">kalorihelp@gmail.com</a>.</p>
   </section>
 
   <section>
