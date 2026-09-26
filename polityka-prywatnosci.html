@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prywatność w aplikacji Kalori</title>
+<meta name="description" content="Polityka prywatności aplikacji Kalori: jakie dane zapisuje, gdzie trafiają i jak je usunąć.">
+<style>
+  :root {
+    --bg: #f5f5f7;
+    --surface: #ffffff;
+    --text: #1d1d1f;
+    --text-2: #6e6e73;
+    --separator: rgba(60, 60, 67, .14);
+    --accent: #177d48;
+    --accent-soft: rgba(23, 125, 72, .10);
+    --todo-bg: #fff1c2;
+    --todo-text: #6b4a00;
+    --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
+      --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
+      --todo-bg: #4a3a0c; --todo-text: #ffe39a;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
+    --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
+    --todo-bg: #4a3a0c; --todo-text: #ffe39a;
+  }
+
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 var(--font); -webkit-text-size-adjust: 100%; }
+  .page { max-width: 680px; margin: 0 auto; padding: 40px 20px 64px; display: flex; flex-direction: column; gap: 36px; }
+
+  header { display: flex; flex-direction: column; gap: 6px; }
+  .app { font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+  h1 { font-family: var(--font-display); font-size: 2rem; line-height: 1.15; letter-spacing: -.03em; margin: 0; text-wrap: balance; }
+  .updated { color: var(--text-2); font-size: .9rem; margin: 0; }
+
+  .summary { background: var(--surface); border-radius: 18px; padding: 20px 22px; }
+  .summary h2 { font-size: 1rem; margin: 0 0 10px; }
+  .summary ul { margin: 0; padding-left: 1.2em; display: flex; flex-direction: column; gap: 6px; }
+
+  section { display: flex; flex-direction: column; gap: 10px; }
+  h2 { font-family: var(--font-display); font-size: 1.25rem; letter-spacing: -.01em; margin: 0; text-wrap: balance; }
+  h2 .no { color: var(--text-2); font-weight: 500; margin-right: .35em; font-variant-numeric: tabular-nums; }
+  p, ul { margin: 0; }
+  ul { padding-left: 1.2em; display: flex; flex-direction: column; gap: 4px; }
+
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+  code { font: .9em ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+  .table-wrap { overflow-x: auto; background: var(--surface); border-radius: 14px; }
+  table { width: 100%; border-collapse: collapse; font-size: .92rem; min-width: 520px; }
+  th, td { text-align: left; vertical-align: top; padding: 11px 14px; border-bottom: 1px solid var(--separator); }
+  tr:last-child td { border-bottom: 0; }
+  th { font-size: .75rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--text-2); }
+  td:first-child { font-weight: 600; }
+
+  mark.todo { background: var(--todo-bg); color: var(--todo-text); padding: 1px 5px; border-radius: 4px; }
+
+  footer { border-top: 1px solid var(--separator); padding-top: 18px; color: var(--text-2); font-size: .9rem; }
+</style>
+<link rel="icon" href="ikona.png">
+<link rel="apple-touch-icon" href="ikona.png">
+</head>
+<body>
+
+<div class="page">
+  <header>
+    <a class="app" href="./" style="text-decoration:none">Kalori</a>
+    <h1>Polityka prywatności</h1>
+    <p class="updated">Obowiązuje od 26 września 2026 r.</p>
+  </header>
+
+  <div class="summary">
+    <h2>W skrócie</h2>
+    <ul>
+      <li>Twój dziennik posiłków i ustawienia zostają na Twoim urządzeniu. Nie mamy do nich dostępu.</li>
+      <li>Zdjęcia z aparatu są analizowane na urządzeniu i nigdzie ich nie wysyłamy ani nie zapisujemy.</li>
+      <li>Gdy szukasz produktu sklepowego lub skanujesz kod kreskowy, wpisane hasło albo numer kodu trafia do bazy Open Food Facts.</li>
+      <li>Nie zbieramy statystyk, nie wyświetlamy reklam i nie śledzimy Cię w innych aplikacjach.</li>
+      <li>Aplikacja działa bez konta. Nie prosimy Cię o e-mail ani inne dane osobowe.</li>
+    </ul>
+  </div>
+
+  <section>
+    <h2><span class="no">1.</span>Kto odpowiada za Twoje dane</h2>
+    <p>Administratorem danych jest <mark class="todo">[imię i nazwisko lub nazwa firmy, adres]</mark>, twórca aplikacji Kalori. W sprawach prywatności napisz na adres <mark class="todo">[adres e-mail do kontaktu]</mark>.</p>
+  </section>
+
+  <section>
+    <h2><span class="no">2.</span>Jakie dane, gdzie i jak długo</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th scope="col">Dane</th><th scope="col">Gdzie trafiają</th><th scope="col">Jak długo</th></tr></thead>
+        <tbody>
+          <tr><td>Dziennik posiłków, cele, własne produkty, ustawienia</td><td>Pamięć aplikacji na Twoim urządzeniu, a jeśli zapiszesz kopię, także ten plik</td><td>Do czasu, aż je usuniesz albo odinstalujesz aplikację</td></tr>
+          <tr><td>Obraz z aparatu i wybrane zdjęcia</td><td>Tylko pamięć robocza urządzenia, na czas odczytu</td><td>Do zamknięcia skanera lub podglądu</td></tr>
+          <tr><td>Wyszukiwane hasła i numery kodów kreskowych</td><td>Open Food Facts</td><td>Według zasad Open Food Facts</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="no">3.</span>Dane na Twoim urządzeniu</h2>
+    <p>Aplikacja zapisuje na urządzeniu to, co w niej wpisujesz: produkty w dzienniku (nazwa, gramatura, wartości odżywcze, data i posiłek), dzienne cele kaloryczne i makroskładników, własne produkty, listę produktów, które masz w domu, ostatnio używane produkty, Twoje oceny sytości oraz wybrany motyw.</p>
+    <p>Te dane nie opuszczają urządzenia i nie mamy do nich dostępu. Możesz je usuwać w aplikacji, a odinstalowanie aplikacji kasuje je w całości.</p>
+    <p>W Ustawieniach możesz zapisać kopię tych danych do pliku. Plik trafia tylko tam, gdzie sam go zapiszesz albo wyślesz, np. do aplikacji Pliki, na iCloud Drive lub przez AirDrop. Nie wysyłamy go nigdzie sami.</p>
+  </section>
+
+  <section>
+    <h2><span class="no">4.</span>Aparat i zdjęcia</h2>
+    <p>Aplikacja prosi o dostęp do aparatu tylko po to, żeby skanować kody kreskowe produktów i robić zdjęcia etykiet z wartościami odżywczymi. Kod i tekst etykiety są odczytywane na urządzeniu. Obrazu nie zapisujemy ani nigdzie nie wysyłamy.</p>
+    <p>Zdjęcie etykiety możesz też wybrać z galerii. Systemowe okno wyboru udostępnia aplikacji tylko to jedno zdjęcie, które wskażesz, a nie całą galerię.</p>
+  </section>
+
+  <section>
+    <h2><span class="no">5.</span>Open Food Facts</h2>
+    <p>Produkty sklepowe pochodzą z otwartej bazy <a href="https://world.openfoodfacts.org" target="_blank" rel="noopener">Open Food Facts</a>, prowadzonej przez francuskie stowarzyszenie Open Food Facts. Gdy wyszukujesz produkt albo skanujesz kod kreskowy, aplikacja wysyła do tej bazy wpisane hasło lub numer kodu.</p>
+    <p>Jak przy każdym połączeniu z internetem, serwer Open Food Facts widzi adres IP urządzenia i podstawowe dane techniczne połączenia. Nie przekazujemy mu żadnych danych o Tobie ani o Twoim koncie. Tymi danymi zarządza Open Food Facts według <a href="https://world.openfoodfacts.org/privacy" target="_blank" rel="noopener">własnej polityki prywatności</a>.</p>
+  </section>
+
+  <section>
+    <h2><span class="no">6.</span>Czego nie robimy</h2>
+    <ul>
+      <li>Nie używamy narzędzi analitycznych ani reklamowych.</li>
+      <li>Nie śledzimy Cię w innych aplikacjach ani na stronach internetowych.</li>
+      <li>Nie sprzedajemy i nie udostępniamy Twoich danych w celach marketingowych.</li>
+      <li>Nie tworzymy Twojego profilu ani nie podejmujemy wobec Ciebie automatycznych decyzji.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="no">7.</span>Twoje prawa</h2>
+    <p>Masz prawo dostępu do swoich danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, przeniesienia do innego usługodawcy oraz prawo sprzeciwu. W tych sprawach napisz na adres z punktu 1.</p>
+    <p>Jeśli uważasz, że przetwarzamy Twoje dane niezgodnie z prawem, możesz złożyć skargę do Prezesa Urzędu Ochrony Danych Osobowych (ul. Stawki 2, 00-193 Warszawa, <a href="https://uodo.gov.pl" target="_blank" rel="noopener">uodo.gov.pl</a>).</p>
+  </section>
+
+  <section>
+    <h2><span class="no">8.</span>Dzieci</h2>
+    <p>Aplikacja nie jest przeznaczona dla dzieci poniżej 16 roku życia i nie zbieramy świadomie ich danych.</p>
+  </section>
+
+  <section>
+    <h2><span class="no">9.</span>Zmiany polityki</h2>
+    <p>Gdy zmienimy sposób przetwarzania danych, zaktualizujemy tę stronę i datę na górze. O istotnych zmianach poinformujemy w aplikacji.</p>
+  </section>
+
+  <footer>Kalori · Polityka prywatności · stan na 26.09.2026</footer>
+</div>
+</body>
+</html>

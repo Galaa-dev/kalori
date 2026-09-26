@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pomoc aplikacji Kalori</title>
+<meta name="description" content="Wsparcie aplikacji Kalori: kontakt i odpowiedzi na najczęstsze pytania.">
+<style>
+  :root {
+    --bg: #f5f5f7;
+    --surface: #ffffff;
+    --text: #1d1d1f;
+    --text-2: #6e6e73;
+    --separator: rgba(60, 60, 67, .14);
+    --accent: #177d48;
+    --accent-soft: rgba(23, 125, 72, .10);
+    --todo-bg: #fff1c2;
+    --todo-text: #6b4a00;
+    --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    --font-display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
+      --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
+      --todo-bg: #4a3a0c; --todo-text: #ffe39a;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #0e0e10; --surface: #1b1b1e; --text: #f5f5f7; --text-2: #a1a1a8;
+    --separator: rgba(255, 255, 255, .10); --accent: #3dd68c; --accent-soft: rgba(61, 214, 140, .14);
+    --todo-bg: #4a3a0c; --todo-text: #ffe39a;
+  }
+
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 var(--font); -webkit-text-size-adjust: 100%; }
+  .page { max-width: 680px; margin: 0 auto; padding: 40px 20px 64px; display: flex; flex-direction: column; gap: 28px; }
+
+  header { display: flex; flex-direction: column; gap: 6px; }
+  .app { font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+  h1 { font-family: var(--font-display); font-size: 2rem; line-height: 1.15; letter-spacing: -.03em; margin: 0; text-wrap: balance; }
+  .lead { color: var(--text-2); margin: 0; }
+
+  .contact { background: var(--accent-soft); border-radius: 18px; padding: 18px 20px; display: flex; flex-direction: column; gap: 6px; }
+  .contact h2 { font-family: var(--font-display); font-size: 1.1rem; margin: 0; }
+  .contact p { margin: 0; }
+  .contact .hint { color: var(--text-2); font-size: .92rem; }
+
+  .topic { display: flex; flex-direction: column; gap: 8px; }
+  .label { font-size: .78rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--text-2); margin: 0 0 0 4px; }
+  .group { background: var(--surface); border-radius: 16px; }
+  .qa { padding: 14px 18px; display: flex; flex-direction: column; gap: 4px; border-bottom: 1px solid var(--separator); }
+  .qa:last-child { border-bottom: 0; }
+  h3 { font-size: 1rem; margin: 0; text-wrap: balance; }
+  .qa p { margin: 0; color: var(--text); }
+  .qa p + p { margin-top: 4px; }
+
+  .path { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+  mark.todo { background: var(--todo-bg); color: var(--todo-text); padding: 1px 5px; border-radius: 4px; }
+
+  footer { color: var(--text-2); font-size: .9rem; border-top: 1px solid var(--separator); padding-top: 18px; }
+</style>
+<link rel="icon" href="ikona.png">
+<link rel="apple-touch-icon" href="ikona.png">
+</head>
+<body>
+
+<div class="page">
+  <header>
+    <a class="app" href="./" style="text-decoration:none">Kalori</a>
+    <h1>Pomoc</h1>
+    <p class="lead">Odpowiedzi na najczęstsze pytania i kontakt z twórcą aplikacji.</p>
+  </header>
+
+  <div class="contact">
+    <h2>Napisz do nas</h2>
+    <p><mark class="todo">[adres e-mail do kontaktu]</mark></p>
+    <p class="hint">Jeśli zgłaszasz błąd, podaj model telefonu i wersję iOS. Jeśli wartości jakiegoś dania z sieci się nie zgadzają, podaj nazwę sieci i dania.</p>
+  </div>
+
+  <section class="topic">
+    <h2 class="label">Dziennik</h2>
+    <div class="group">
+      <div class="qa">
+        <h3>Jak ustawić dzienny cel?</h3>
+        <p>W <span class="path">Ustawienia → Cele dzienne</span> wpisz, ile gramów białka, węglowodanów i tłuszczu chcesz jeść. Cel kaloryczny liczy się z tych wartości: 4 kcal na gram białka i węglowodanów oraz 9 kcal na gram tłuszczu.</p>
+      </div>
+      <div class="qa">
+        <h3>Jak poprawić albo usunąć produkt?</h3>
+        <p>Stuknij produkt w dzienniku, żeby zmienić jego ilość. Przycisk × obok produktu go usuwa, a <span class="path">Wyczyść dzień</span> usuwa wszystkie produkty z wybranego dnia.</p>
+      </div>
+      <div class="qa">
+        <h3>Czym są zaplanowane produkty?</h3>
+        <p>Zaplanowane produkty są liczone osobno od zjedzonych, więc widzisz, ile kalorii zostanie po całym dniu. Gdy zjesz taki produkt, stuknij przy nim ✓.</p>
+      </div>
+      <div class="qa">
+        <h3>Czy mogę mieć własne posiłki?</h3>
+        <p>Tak. Przycisk <span class="path">Dodaj posiłek</span> pod listą dodaje nowy posiłek. Po stuknięciu ⋯ przy posiłku możesz zmienić jego kolejność albo go usunąć.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="topic">
+    <h2 class="label">Produkty i skanowanie</h2>
+    <div class="group">
+      <div class="qa">
+        <h3>Skaner nie włącza aparatu</h3>
+        <p>Aplikacja potrzebuje zgody na aparat. Włączysz ją w <span class="path">Ustawienia iPhone'a → Kalori → Aparat</span>. Numer kodu możesz też wpisać ręcznie w polu pod podglądem aparatu.</p>
+      </div>
+      <div class="qa">
+        <h3>Zeskanowałem kod, ale produktu nie ma</h3>
+        <p>Produkty sklepowe pochodzą z otwartej bazy Open Food Facts, w której nie ma wszystkiego. Użyj wtedy opcji <span class="path">Skanuj tabelę wartości odżywczych</span>: zrób zdjęcie tabeli z opakowania, a aplikacja sama wpisze liczby. Możesz też wpisać wartości ręcznie jako <span class="path">Własny produkt</span>.</p>
+      </div>
+      <div class="qa">
+        <h3>Jak zrobić dobre zdjęcie etykiety?</h3>
+        <p>Połóż opakowanie płasko, zadbaj o równe światło bez odblasków i zmieść w kadrze całą tabelę. Przed zapisaniem sprawdź odczytane liczby, bo pomięta albo błyszcząca folia może zmylić odczyt.</p>
+      </div>
+      <div class="qa">
+        <h3>Skąd są wartości dań z sieci?</h3>
+        <p>Z oficjalnych tabel wartości odżywczych publikowanych przez sieci. W karcie każdego produktu jest link do źródła. Pozycje oznaczone jako średnie wartości to przybliżenia, a nie dane producenta. Jeśli zauważysz błąd albo brakujące danie, napisz do nas.</p>
+      </div>
+      <div class="qa">
+        <h3>Czy aplikacja działa bez internetu?</h3>
+        <p>Dziennik, menu sieci i odczyt etykiet działają bez internetu. Wyszukiwanie produktów sklepowych i sprawdzanie kodów kreskowych w bazie wymagają połączenia.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="topic">
+    <h2 class="label">Dane i prywatność</h2>
+    <div class="group">
+      <div class="qa">
+        <h3>Gdzie są zapisane moje dane?</h3>
+        <p>Tylko na Twoim telefonie. Aplikacja nie ma kont, a my nie mamy dostępu do Twojego dziennika.</p>
+        <p>Usunięcie aplikacji kasuje wszystkie wpisy, dlatego co jakiś czas zapisz kopię w <span class="path">Ustawienia → Kopia zapasowa → Zapisz kopię</span>.</p>
+      </div>
+      <div class="qa">
+        <h3>Jak przenieść dane na nowy telefon?</h3>
+        <p>Na starym telefonie wybierz <span class="path">Ustawienia → Kopia zapasowa → Zapisz kopię</span> i zapisz plik na iCloud Drive albo wyślij go sobie przez AirDrop. Na nowym telefonie wybierz <span class="path">Wczytaj kopię</span> i wskaż ten plik.</p>
+        <p>Wczytanie kopii zastępuje dane, które są w aplikacji. Przed zastąpieniem aplikacja pokaże, z którego dnia jest kopia i ile ma wpisów.</p>
+      </div>
+      <div class="qa">
+        <h3>Jakie dane wysyła aplikacja?</h3>
+        <p>Tylko wpisane hasło wyszukiwania albo numer kodu kreskowego do bazy Open Food Facts. Zdjęcia są analizowane na telefonie i nigdzie nie trafiają. Szczegóły znajdziesz w <a href="polityka-prywatnosci.html">polityce prywatności</a>.</p>
+      </div>
+      <div class="qa">
+        <h3>Czy aplikacja zastępuje dietetyka?</h3>
+        <p>Nie. Wartości w aplikacji są orientacyjne. W sprawach zdrowia, diety leczniczej albo dużej zmiany masy ciała skonsultuj się z lekarzem lub dietetykiem.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>Kalori · wersja 1.0</footer>
+</div>
+</body>
+</html>
