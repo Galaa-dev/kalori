@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Kalori – licznik kalorii</title>
-<meta name="description" content="Kalori liczy kalorie, białko, węglowodany i tłuszcze. Menu popularnych sieci, skaner kodów kreskowych i odczyt etykiet.">
-<link rel="icon" href="ikona.png">
-<link rel="apple-touch-icon" href="ikona.png">
+<title>Dane z Open Food Facts – Kalori</title>
+<meta name="description" content="Dane produktów z Open Food Facts wbudowane w aplikację Kalori, do pobrania na licencji ODbL.">
+<link rel="icon" href="../ikona.png">
+<link rel="apple-touch-icon" href="../ikona.png">
 <style>
   :root {
     --bg: #f5f5f7;
@@ -51,29 +51,32 @@
 
   footer { color: var(--text-2); font-size: .85rem; }
   footer a { color: var(--accent); }
+  h2 { font-size: 1.05rem; margin: 0 0 8px; }
+  p { margin: 0 0 12px; }
+  .back { color: var(--accent); text-decoration: none; font-weight: 600; }
+  code { font-size: .9em; }
+  section a { color: var(--accent); }
 </style>
 </head>
 <body>
 <main class="page">
-  <section class="hero">
-    <img src="ikona.png" alt="Ikona aplikacji Kalori">
-    <h1>Kalori<span>licznik kalorii</span></h1>
-    <p class="lead">Liczy kalorie i makroskładniki w tym, co naprawdę jesz: w daniach z popularnych sieci, pieczywie z dyskontów i produktach z kodem kreskowym. Brakujący produkt dodasz ze zdjęcia etykiety.</p>
-    <ul class="macros" aria-label="Makroskładniki">
-      <li><i style="background:var(--protein)"></i>białko</li>
-      <li><i style="background:var(--carbs)"></i>węglowodany</li>
-      <li><i style="background:var(--fat)"></i>tłuszcze</li>
-    </ul>
-    <span class="soon">Wkrótce w App Store</span>
+  <a class="back" href="../">Kalori</a>
+  <section>
+    <h1>Dane z Open Food Facts</h1>
   </section>
-
-  <nav aria-label="Informacje o aplikacji">
-    <a href="wsparcie.html"><span>Pomoc i kontakt<small>najczęstsze pytania, zgłaszanie błędów</small></span></a>
-    <a href="polityka-prywatnosci.html"><span>Polityka prywatności<small>jakie dane zapisuje aplikacja i gdzie trafiają</small></span></a>
-    <a href="dane/"><span>Dane z Open Food Facts<small>produkty z otwartej bazy w aplikacji, licencja ODbL</small></span></a>
+  <section>
+    <p>Część produktów wbudowanych w aplikację Kalori pochodzi z otwartej bazy <a href="https://world.openfoodfacts.org">Open Food Facts</a>. Ta baza jest udostępniona na licencji <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License (ODbL) 1.0</a>, a pojedyncze wpisy na licencji <a href="https://opendatacommons.org/licenses/dbcl/1-0/">Database Contents License 1.0</a>.</p>
+    <p>Zgodnie z ODbL udostępniamy te dane w postaci, w jakiej są w aplikacji, na tej samej licencji. Wartości odżywcze są przeliczone na porcję, a nazwy i kategorie mogą być poprawione.</p>
+  </section>
+  <nav aria-label="Pliki do pobrania">
+    <a href="open-food-facts.csv" download><span>open-food-facts.csv<small>produkty z Open Food Facts w aplikacji Kalori, CSV (UTF-8)</small></span></a>
+    <a href="LICENSE-ODbL.txt"><span>LICENSE-ODbL.txt<small>pełny tekst licencji ODbL 1.0</small></span></a>
   </nav>
-
-  <footer>© 2026 Kacper Gołkowski · Kontakt: <a href="mailto:kalorihelp@gmail.com">kalorihelp@gmail.com</a> · Aplikacja nie jest powiązana z sieciami, których menu zawiera.</footer>
+  <section>
+    <h2>Kolumny</h2>
+    <p><code>chain</code> sklep, <code>name</code> nazwa, <code>category</code> kategoria, <code>portion_g</code> porcja w gramach, <code>kcal_per_portion</code>, <code>protein_g</code>, <code>carbs_g</code>, <code>fat_g</code>, <code>fiber_g</code>, <code>sugar_g</code>, <code>satfat_g</code>, <code>salt_g</code> wartości na porcję, <code>source_url</code> produkt w Open Food Facts.</p>
+  </section>
+  <footer>© współtwórcy Open Food Facts (openfoodfacts.org), licencja ODbL 1.0. Kalori nie jest powiązana z Open Food Facts ani ze sklepami, których produkty zawiera.</footer>
 </main>
 </body>
 </html>
