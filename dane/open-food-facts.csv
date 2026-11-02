@@ -391,11 +391,11 @@ auchan,Łowicz Dżem Dobry! Truskawa z czerwoną porzeczką 280 g,Dżemy i kremy
 auchan,Łowicz Dżem Malina 200 g,Dżemy i kremy,200,64,1.8,9,0.6,https://world.openfoodfacts.org/product/5900397759299,7,8.2,0.4,
 auchan,Łowicz Dżem truskawkowy 200 g,Dżemy i kremy,200,286,1,70,1,https://world.openfoodfacts.org/product/59037644,,70,0.2,0
 auchan,Łowicz Dżem wiśniowy 200 g,Dżemy i kremy,200,288,1,70,1,https://world.openfoodfacts.org/product/4973835006546,,70,,
-auchan,Lipton Herbata czarna,Herbata,115,5,0.57,0,0,https://world.openfoodfacts.org/product/8714100240298,0,0,0,0
-auchan,Lipton Pokrzywa z mango 26 g,Herbata,26,1,0.13,0.13,0,https://world.openfoodfacts.org/product/8717163856741,,0.13,0,0
-auchan,Teekanne Hot Love herbata owocowa 40 g,Herbata,40,1,0,0.16,0,https://world.openfoodfacts.org/product/5901086061198,0,0,0,0
-auchan,Vifon Herbata zielona lotosowa aromatyzowana 100 g,Herbata,100,5,0,1.08,0,https://world.openfoodfacts.org/product/5901882312494,0,0,0,0.01
-auchan,Auchan Jaja L 10 szt.,Jaja,100,140,12.7,0.27,9.83,https://world.openfoodfacts.org/product/5904215130659,0,0.27,2.64,0.31
+auchan,Lipton Herbata czarna,Herbata,250,10.9,1.24,0,0,https://world.openfoodfacts.org/product/8714100240298,0,0,0,0
+auchan,Lipton Pokrzywa z mango 26 g,Herbata,250,9.6,1.25,1.25,0,https://world.openfoodfacts.org/product/8717163856741,,1.25,0,0
+auchan,Teekanne Hot Love herbata owocowa 40 g,Herbata,250,6.2,0,1,0,https://world.openfoodfacts.org/product/5901086061198,0,0,0,0
+auchan,Vifon Herbata zielona lotosowa aromatyzowana 100 g,Herbata,250,12.5,0,2.7,0,https://world.openfoodfacts.org/product/5901882312494,0,0,0,0.03
+auchan,Auchan Jaja L 10 szt.,Jaja,58,81,7.37,0.16,5.7,https://world.openfoodfacts.org/product/5904215130659,0,0.16,1.53,0.18
 auchan,Activia Jogurt naturalny do picia ze szczepami bakterii ActiRegularis 300 g,Jogurty,100,37,3.3,4,0.9,https://world.openfoodfacts.org/product/5900643034293,,0,0.6,0.12
 auchan,Activia Jogurt naturalny z probiotykami 165 g,Jogurty,165,114,7.43,8.42,5.61,https://world.openfoodfacts.org/product/5900643049273,0,8.42,3.63,0.25
 auchan,Auchan Ayran,Jogurty,100,34,2.1,3,1.5,https://world.openfoodfacts.org/product/5904215163039,,3,,0.75
@@ -1052,7 +1052,7 @@ auchan,Develey Dressing czosnkowy 250 ml,Pozostałe,250,478,3.25,21,42.5,https:/
 auchan,Develey sos słodko kwaśny 460 g,Pozostałe,100,155,0.5,35,1,https://world.openfoodfacts.org/product/5906425144440,0.35,34,0.1,0
 auchan,Diet Food Fettuccine suchy makaron konjac 80 g,Pozostałe,80,25,0.08,5.68,0,https://world.openfoodfacts.org/product/5903933645322,1.04,,0,0.02
 auchan,Dobra kaloria Gyros à la kurczak roślinny 150 g,Pozostałe,150,372,40.5,19.5,14.1,https://world.openfoodfacts.org/product/5903548004057,3.15,1.65,1.65,
-auchan,Dobra kaloria Mini batonik z nerkowcami a la ciasto porzeczkowe 108 g,Pozostałe,108,402,7.8,51,15.6,https://world.openfoodfacts.org/product/5903548001858,13.8,48.6,3,0.06
+auchan,Dobra kaloria Mini batonik z nerkowcami a la ciasto porzeczkowe 6 x 18 g,Pozostałe,18,67,1.3,8.5,2.6,https://world.openfoodfacts.org/product/5903548001858,2.3,8.1,0.5,0.01
 auchan,Dobra kaloria Nuggetsy 175 g,Pozostałe,175,522,17.5,40.25,31.5,https://world.openfoodfacts.org/product/5903548006525,3.15,2.1,2.63,5.69
 auchan,Dobra kaloria Roladki roślinne À la wołowe za farszem pieczarkowym 160 g,Pozostałe,160,357,20.8,25.6,17.6,https://world.openfoodfacts.org/product/5903548004743,6.08,0.96,7.52,2.72
 auchan,Dobra kaloria Roślinny burger 170 g,Pozostałe,170,600,45.9,17,37.4,https://world.openfoodfacts.org/product/5903548004194,,5.95,,3.06
@@ -1226,7 +1226,7 @@ auchan,Smak Konserwowe ogóreczki z miodem 300 g,Pozostałe,100,64,1,13,0.5,http
 auchan,Sok pomidorowy z bazylią 330ml,Pozostałe,100,22,1,4.6,0,https://world.openfoodfacts.org/product/5904215140092,1,4.6,0,1
 auchan,Sonko Lekka kanapka z nadzieniem czekoladowym 30 g,Pozostałe,30,146,1.98,18,6.9,https://world.openfoodfacts.org/product/5902180810132,1.8,10.2,3.9,
 auchan,Sonko Wafle ryżowe kukurydziane o smaku maliny 65 g,Pozostałe,65,324,3.19,45.5,14.3,https://world.openfoodfacts.org/product/5902180960134,0.52,19.5,13,0.03
-auchan,Sonko Wafle ryżowo-kukurydziane o smaku mango 70 g,Pozostałe,70,355,3.43,46.9,16.8,https://world.openfoodfacts.org/product/5902180940136,1.19,20.3,14,0.04
+auchan,"Sonko Wafle ryżowo-kukurydziane o smaku mango 4 x 17,5 g",Pozostałe,17.5,89,0.86,11.73,4.2,https://world.openfoodfacts.org/product/5902180940136,0.3,5.08,3.5,0.01
 auchan,Suszone pomidory w paskach w oleju z ziołami 305 ml,Pozostałe,100,202,4.1,11,14,https://world.openfoodfacts.org/product/5900664009546,7,11,1.2,2.8
 auchan,Szubryt Polędwica harnasia tradycyjna 80 g,Pozostałe,80,138,21.6,0.4,5.52,https://world.openfoodfacts.org/product/5906190372550,,0.4,2.72,1.73
 auchan,Sądecki Bartnik Pyłek Kwiatowy 200 g,Pozostałe,200,788,40,112,20,https://world.openfoodfacts.org/product/5900597011821,,72,6,0
@@ -1665,7 +1665,7 @@ auchan,Kamis Musztarda sarepska 280 g,Sosy,100,93,4.4,7.9,4,https://world.openfo
 auchan,Kamis Musztarda z Chili 185 g,Sosy,185,189,8.51,15.36,8.7,https://world.openfoodfacts.org/product/5900084241809,0.29,15.36,0.56,4.81
 auchan,Knorr Fix Chili con carne 37 g,Sosy,37,109,3.4,18.5,1.74,https://world.openfoodfacts.org/product/8712100483394,5.18,10.73,0.3,4.29
 auchan,Knorr Fix chrupiące nuggetsy 60 g,Sosy,60,210,7.8,38.4,1.86,https://world.openfoodfacts.org/product/8721317711206,2.64,3.66,0.3,3.54
-auchan,Knorr Rosół z kury 180 g,Sosy,180,11,0.36,0.65,0.79,https://world.openfoodfacts.org/product/8711200354689,,0.36,0.5,1.66
+auchan,Knorr Rosół z kury 18 x 10 g (po przygotowaniu),Sosy,250,15.3,0.5,0.9,1.1,https://world.openfoodfacts.org/product/8711200354689,,0.5,0.69,2.31
 auchan,Knorr Sos sałatkowy grecki 9 g,Sosy,9,39,0.05,0.47,4.14,https://world.openfoodfacts.org/product/8714100855263,0.07,0.35,0.62,0.14
 auchan,Knorr Sos sałatkowy paprykowo-ziołowy 9 g,Sosy,9,38,0.05,0.43,4.05,https://world.openfoodfacts.org/product/8714100855171,0.06,0.34,0.59,0.2
 auchan,Kotanyi Szałwia cięta 9 g,Sosy,9,3,0.36,0.09,0.02,https://world.openfoodfacts.org/product/5901032034337,0.63,0.03,0,0
@@ -1828,7 +1828,7 @@ auchan,Colian Toffino Choco 80 g,Słodycze,80,392,2.24,56,17.6,https://world.ope
 auchan,Cukry Nyskie Herbatniki regionalne w polewie kakaowej 92 g,Słodycze,92,449.78,6.13,59.29,20.44,https://world.openfoodfacts.org/product/5901228000092,,26.58,8.18,0.41
 auchan,Dan Cake Babka 250 g,Słodycze,250,1020,13.25,140,47.5,https://world.openfoodfacts.org/product/5900864702070,,72.5,7.5,2.08
 auchan,Dobra kaloria Baton owocowy chrupiący orzech 35 g,Słodycze,35,135,2.91,20.3,4.2,https://world.openfoodfacts.org/product/5903548002008,2.49,14.7,0.49,0.02
-auchan,Dobra Kaloria Mini-Batoniki z nerkowców a la szarlotka z cynamonem 102 g,Słodycze,102,428,7.85,55.08,18.36,https://world.openfoodfacts.org/product/5903548002442,5.41,37.74,3.47,0.03
+auchan,Dobra Kaloria Mini-Batoniki z nerkowców a la szarlotka z cynamonem 6 x 17 g,Słodycze,17,71,1.31,9.18,3.06,https://world.openfoodfacts.org/product/5903548002442,0.9,6.29,0.58,0.01
 auchan,Dr Gerard Ciasteczka mafijne lemon 800 g,Słodycze,100,498,4.7,60,27,https://world.openfoodfacts.org/product/5907471414907,,26,12,0.59
 auchan,Dr. Oetker Kopiec kreta czarny z czekoladą 410 g,Słodycze,100,252,3.5,25,15,https://world.openfoodfacts.org/product/5900437084602,,18,7.3,0.39
 auchan,Dr. Oetker Sernik królewski 520 g,Słodycze,100,359,11.8,35.2,18.7,https://world.openfoodfacts.org/product/5900437086057,1.5,19.9,7.9,0.58
@@ -1878,7 +1878,7 @@ auchan,Jutrzenka Familijne klasyczne kakao 180 g,Słodycze,180,972,11.52,113.4,5
 auchan,Jutrzenka Familijne wafle śmietankowe 180 g,Słodycze,180,950,11.88,109.8,52.2,https://world.openfoodfacts.org/product/5900352008073,,46.8,27,0.9
 auchan,Jutrzenka Herbatniki petit beurre 100 g,Słodycze,100,444,7.7,74,12,https://world.openfoodfacts.org/product/5900352009971,,22,5.9,
 auchan,Jutrzenka Sliwka kandyzowana w czekoladzie 180g,Słodycze,180,605,5.58,102.6,16.38,https://world.openfoodfacts.org/product/5904215146438,,77.4,10.08,0.05
-auchan,Jutrzenka Wafle Familijne o smaku cytrynowym 180 g,Słodycze,180,976,7.02,113.4,54,https://world.openfoodfacts.org/product/5900352006284,6.69,54,28.8,0.49
+auchan,Jutrzenka Wafle Familijne o smaku cytrynowym 18 x 10 g,Słodycze,10,54,0.39,6.3,3,https://world.openfoodfacts.org/product/5900352006284,0.37,3,1.6,0.03
 auchan,Jutrzenka Wafle wafers familijne kokosowe 180 g,Słodycze,180,999,11.34,93.6,63,https://world.openfoodfacts.org/product/5900352004266,,41.4,43.2,0.81
 auchan,Kinder Bueno White 39 g,Słodycze,39,223,3.31,20.67,14,https://world.openfoodfacts.org/product/80761761,0.42,17.12,6.55,0.13
 auchan,Kopernik Katarzynki 94 g,Słodycze,94,328,5.83,71.44,0.94,https://world.openfoodfacts.org/product/5900056012772,,30.08,0.28,0.12
@@ -2069,7 +2069,7 @@ auchan,Szubryt Szynka z wieprza 80 g,Wędliny,80,94,17.6,0.4,2.56,https://world.
 auchan,Tarczyński Gryzzale kabanoski z kurczaka z indykiem 90 g,Wędliny,90,285,21.6,5.22,18.9,https://world.openfoodfacts.org/product/00832519,,1.53,5.76,2.07
 auchan,ZMB Białystok Polędwica Kanadyjska z indyka 100 g,Wędliny,100,82,13.5,0.4,2.8,https://world.openfoodfacts.org/product/5904123587071,,0.14,1.1,0.2
 auchan,ZMB Białystok Szynka Suszona 100 g,Wędliny,100,179,24,1.6,8.4,https://world.openfoodfacts.org/product/5904123526315,,1.3,3.3,5.12
-auchan,Łuków Pastrami premium 100 g,Wędliny,100,119,17,2.6,4.5,https://world.openfoodfacts.org/product/5900842023555,,1.5,2.1,2.6
+auchan,Łuków Pastrami premium 5 x 20 g,Wędliny,20,24,3.4,0.52,0.9,https://world.openfoodfacts.org/product/5900842023555,,0.3,0.42,0.52
 auchan,Auchan Bulion wołowy 100g,Zupy,100,3,0.5,0.5,0.5,https://world.openfoodfacts.org/product/5904215138907,,0.5,0.1,1.1
 auchan,Auchan Fasolka po bretońsku z kiełbasą i boczkiem. 500 g,Zupy,100,111,6.5,9.1,4.7,https://world.openfoodfacts.org/product/5904215135159,,1,1.7,1.1
 auchan,Auchan Flaki po zamojski 500 g,Zupy,100,71,6.4,3.4,3.4,https://world.openfoodfacts.org/product/5904215134534,0.25,0.7,1.8,0.88
@@ -2218,11 +2218,11 @@ biedronka,Lipton Herbata czarna z naturalnym aromatem 184 g (92 x 2 g),Herbata,1
 biedronka,Lipton Yellow Label 100 g (2 g x 50 torebek),Herbata,100,4,0.5,0.5,0,https://world.openfoodfacts.org/product/5900300550203,0,0.5,0,0
 biedronka,Lipton Yellow Label granulowana 100g,Herbata,100,4,0.5,0,0,https://world.openfoodfacts.org/product/8718114822853,0,0,0,0
 biedronka,Remsey Herbata czarna aromatyzowana Earl Grey Strong w torebkach do zaparzania,Herbata,100,0,0,0,0,https://world.openfoodfacts.org/product/5900396015723,0,0,0,0
-biedronka,Biedronka Jaja z chowu ściołkowego,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5902802760074,0,0,3,0.4
-biedronka,Moja Kurka Jaja z chowu na wolnym wybiegu,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5902802761019,0,0,3,0.39
-biedronka,Moja kurka Świeże jaja,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5902802760012,0,0,3,0.4
-biedronka,Ovos Jaja L,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5907809760225,0,0,3,0.4
-biedronka,Ovovita Jajka L,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5908230849015,0,0,3,0.4
+biedronka,Biedronka Jaja z chowu ściołkowego,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/5902802760074,0,0,1.74,0.23
+biedronka,Moja Kurka Jaja z chowu na wolnym wybiegu,Jaja,50,70,6.25,0.3,4.85,https://world.openfoodfacts.org/product/5902802761019,0,0,1.5,0.2
+biedronka,Moja kurka Świeże jaja,Jaja,50,70,6.25,0.3,4.85,https://world.openfoodfacts.org/product/5902802760012,0,0,1.5,0.2
+biedronka,Ovos Jaja L,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/5907809760225,0,0,1.74,0.23
+biedronka,Ovovita Jajka L,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/5908230849015,0,0,1.74,0.23
 biedronka,Actiplus Mleko fermentowane z Lactobacillus oraz witaminami B6 i D. 600 g (6 x 100 g),Jogurty,100,63,3,10.7,0.9,https://world.openfoodfacts.org/product/9019100573209,0,10.7,0.5,0.1
 biedronka,ActiPlus Mleko fermentowane z sokiem truskawkowym z bakteriami oraz witaminami 600 g (6 x 100 g),Jogurty,100,63,3,10.8,0.9,https://world.openfoodfacts.org/product/9019100573100,0,10.7,0.5,0.1
 biedronka,"Actiplus Mleko fermentowane z sokiem truskawkowym z Lactobacillus, Bifidobacterium oraz witaminami B6 i D 1000 g (10 x 100 g)",Jogurty,100,63,3,10.8,0.9,https://world.openfoodfacts.org/product/9019100563439,0,10.7,0.5,0.1
@@ -3266,6 +3266,10 @@ biedronka,Mleczna Dolina Śmietanka UHT 12 500 ml,Śmietana,100,134,2.7,3.9,12,h
 biedronka,Mleczna Dolina śmietanka UHT 18% 500 ml,Śmietana,100,186,2.4,3.6,18,https://world.openfoodfacts.org/product/5900120022577,,3.6,12,0.1
 biedronka,Piątnica Soured cream 18% 200 g,Śmietana,200,384,5.4,9.6,36,https://world.openfoodfacts.org/product/5900531001031,,9,24,0.2
 biedronka,Łowicz Śmietanka UHT 36% Łowicka 500 ml,Śmietana,100,344,2,3,36,https://world.openfoodfacts.org/product/5900120022942,,3,22,0.08
+biedronka,Candi Gumisie Bearw,Słodycze,100,329,6.7,74,0.1,https://world.openfoodfacts.org/product/5901888025473,0,45,0.1,
+biedronka,Candi Żelki Kable,Słodycze,100,372,2.7,83,2.7,https://world.openfoodfacts.org/product/8594044246743,0.7,58,1.7,
+biedronka,Candi Jabłkowe Krążki (Apple Rings),Słodycze,100,343,3.8,81,0.03,https://world.openfoodfacts.org/product/8594044248372,,54,,
+biedronka,Candi Żelki,Słodycze,100,327,6.7,73.3,0,https://world.openfoodfacts.org/product/5901888025510,,,,
 biedronka,Bakello Erytrytol 250 g,Cukier,100,0,0,99,0,https://world.openfoodfacts.org/product/5900617046321,0,0,0,0
 biedronka,Hortex Zupa kalafiorowa z koperkiem 750 g,Dania mrożone,100,36,1.9,5.4,0.5,https://world.openfoodfacts.org/product/5900477000945,2.4,,,
 biedronka,Mr. Potato Frytki karbowane 1 kg,Dania mrożone,100,131,2.3,22.6,2.9,https://world.openfoodfacts.org/product/5412873196806,2.4,0.5,0.3,0.2
@@ -3618,7 +3622,7 @@ carrefour,Carrefour Łagodny krem z dyni,Dania gotowe,100,29,0.79,3.63,1.08,http
 carrefour,Graal Gołąbki w sosie pomidorowym 700 g,Dania gotowe,100,75,2.2,7.3,3.7,https://world.openfoodfacts.org/product/5903895628845,1.52,3.2,1.4,1.2
 carrefour,Karczma Bukówka Pierogi z kapustą i grzybami 500 g,Dania gotowe,100,154,4.6,25,3,https://world.openfoodfacts.org/product/5903111176303,3.8,0.8,0.4,1
 carrefour,Karczma Bukówka Pierogi ze szpinakiem 500 g,Dania gotowe,100,165,6.1,26,3.6,https://world.openfoodfacts.org/product/5903111176327,2.7,2,0.5,0.9
-carrefour,Carrefour Tiramisu z ciastkami Speculoos,Desery,200,576,10,76,24,https://world.openfoodfacts.org/product/3560070695362,4,46,18.8,0.74
+carrefour,Carrefour Tiramisu z ciastkami Speculoos 2 x 100 g,Desery,100,288,5,38,12,https://world.openfoodfacts.org/product/3560070695362,2,23,9.4,0.37
 carrefour,Carrefour VEGEtal vegangurt kokos wanilia 150 g,Desery,150,116,0.75,12.15,7.05,https://world.openfoodfacts.org/product/5905784315218,0.45,6.45,6.75,0.03
 carrefour,Dr. Oetker mleczny RYŻ z jabłkami i cynamonem 58g,Desery,58,58,1.37,12.3,0.23,https://world.openfoodfacts.org/product/5900437039220,0.95,5.02,0.11,0.05
 carrefour,Gostyń Mleko zagęszczone kokosowe 150 g,Desery,150,488,10.8,84,12,https://world.openfoodfacts.org/product/5900691032166,0,84,7.2,0.38
@@ -3638,10 +3642,10 @@ carrefour,Carrefour Miód wielokwiatowy nektarowy 300 g,Dżemy i kremy,100,326,0
 carrefour,Carrefour Pasta orzechowa crunchy o smaku słonego karmelu,Dżemy i kremy,100,592,23.7,17.7,45.9,https://world.openfoodfacts.org/product/5905784304953,6.6,10.8,5.41,0.64
 carrefour,Dr. Oetker OWOCOWY DUET malina & żurawina 32 g,Dżemy i kremy,32,19,0.02,4.64,0,https://world.openfoodfacts.org/product/5900437036182,,2.94,0,0.01
 carrefour,Huzar Miód wielokwiatowy 350 g,Dżemy i kremy,100,339,0.5,83,0,https://world.openfoodfacts.org/product/5907707117350,0,76,0,0.01
-carrefour,Carrefour Jaja,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5905784305233,,,,
-carrefour,Carrefour Jaja klasy A,Jaja,100,143,13.39,0.54,8.39,https://world.openfoodfacts.org/product/5905784358826,,,,
-carrefour,Carrefour Jaja rozmiar L,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/5905784311838,,,,
-carrefour,Carrefour Świeże jaja z chowu ściółkowego,Jaja,100,140,12.5,0.59,9.71,https://world.openfoodfacts.org/product/5905784347264,0,0.27,2.64,0.31
+carrefour,Carrefour Jaja,Jaja,55,76,6.88,0.33,5.34,https://world.openfoodfacts.org/product/5905784305233,,,,
+carrefour,Carrefour Jaja klasy A,Jaja,50,72,6.7,0.27,4.2,https://world.openfoodfacts.org/product/5905784358826,,,,
+carrefour,Carrefour Jaja rozmiar L,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/5905784311838,,,,
+carrefour,Carrefour Świeże jaja z chowu ściółkowego,Jaja,58,81,7.25,0.34,5.63,https://world.openfoodfacts.org/product/5905784347264,0,0.16,1.53,0.18
 carrefour,Carrefour Jogurt do picia truskawkowy 350 g,Jogurty,100,70,2.8,10.6,1.8,https://world.openfoodfacts.org/product/5905784349169,0,10.1,0.8,0.05
 carrefour,Carrefour Jogurt do picia waniliowy 350 g,Jogurty,100,70,2.8,10.6,1.8,https://world.openfoodfacts.org/product/5905784349152,0,10.1,0.8,0.05
 carrefour,Carrefour Jogurt Grecki 400 g,Jogurty,100,117,2.8,4,10,https://world.openfoodfacts.org/product/5905784328249,0,4,6,0.1
@@ -3654,8 +3658,8 @@ carrefour,Carrefour Wysokobiałkowy jogurt naturalny,Jogurty,100,62,6,5,2,https:
 carrefour,Danone danonino 6 iaurturi,Jogurty,100,92,6.3,11,2.5,https://world.openfoodfacts.org/product/5941209014588,0.2,10.3,1.6,0.09
 carrefour,Mlekovita Jogurt naturalny 350 g,Jogurty,100,64,3.9,5.3,3,https://world.openfoodfacts.org/product/5900512990101,,5.3,2,0.1
 carrefour,Piątnica Skyr jogurt pitny typu islandzkiego mango & marakuja 355 g,Jogurty,100,80,6.5,10,1.5,https://world.openfoodfacts.org/product/5901939103068,,10,1.5,0.08
-carrefour,Carrefour CAPPUCCINO O smaku karmelowym 136 g,Kawa,136,58,2.04,10.34,0.95,https://world.openfoodfacts.org/product/3560071568931,0.68,8.57,0.82,0.05
-carrefour,Carrefour Lungo Volupto,Kawa,52,1,0.05,0,0,https://world.openfoodfacts.org/product/3560071432096,0,0,0,0
+carrefour,Carrefour Cappuccino o smaku karmelowym 8 x 17 g (po przygotowaniu),Kawa,150,64,2.25,11.4,1.05,https://world.openfoodfacts.org/product/3560071568931,0.75,9.45,0.9,0.06
+carrefour,"Carrefour Lungo Volupto 10 x 5,2 g (napar)",Kawa,200,3.8,0.19,0,0,https://world.openfoodfacts.org/product/3560071432096,0,0,0,0
 carrefour,Carrefour Kiełbasa sucha 300 g,Kiełbasy i parówki,100,460,24,3.3,39,https://world.openfoodfacts.org/product/3245414663565,0,2.3,17,4.3
 carrefour,Carrefour Mini Kiełbaski suszone 75 g,Kiełbasy i parówki,75,356,21.75,2.62,28.5,https://world.openfoodfacts.org/product/3560070692842,0,1.73,11.25,3.6
 carrefour,Carrefour Mini kiełbaski suszone z orzechami 75 g,Kiełbasy i parówki,75,367,22.5,2.85,29.25,https://world.openfoodfacts.org/product/3560071358051,1.27,1.73,9.75,3.38
@@ -3791,8 +3795,8 @@ carrefour,Carrefour Pierogi ruskie 400 g,Pierogi i kluski,100,164,5.7,25,4.1,htt
 carrefour,Carrefour Pierogi z mięsem 400 g,Pierogi i kluski,100,209,8.9,23,8.5,https://world.openfoodfacts.org/product/5905784310527,2.5,0.5,2.5,0.98
 carrefour,Carrefour Pierogi z serem na słodko 400 g,Pierogi i kluski,100,187,8.8,32.1,2.2,https://world.openfoodfacts.org/product/5905784351742,1.8,8.8,0.9,0.33
 carrefour,Karczma Bukówka Pierogi z mięsem 500 g,Pierogi i kluski,100,222,8.8,23,9.5,https://world.openfoodfacts.org/product/5903111176280,3.9,1.2,3.4,0.89
-carrefour,Carrefour Cappuccino Nature 14 g,Pozostałe,14,5,0.18,0.87,0.07,https://world.openfoodfacts.org/product/3560071568917,0.07,0.67,0.07,0.01
-carrefour,Carrefour Cappuccino O smaku waniliowym 18 g,Pozostałe,18,8,0.27,1.53,0.09,https://world.openfoodfacts.org/product/3560071568924,0.09,1.3,0.07,0.01
+carrefour,Carrefour Cappuccino Nature 14 g (po przygotowaniu),Kawa,150,54,1.93,9.32,0.75,https://world.openfoodfacts.org/product/3560071568917,0.75,7.18,0.75,0.11
+carrefour,Carrefour Cappuccino o smaku waniliowym 18 g (po przygotowaniu),Kawa,150,67,2.25,12.75,0.75,https://world.openfoodfacts.org/product/3560071568924,0.75,10.83,0.58,0.08
 carrefour,Carrefour filety śledziowe solone 800 g,Pozostałe,100,112,11.2,0.5,8.3,https://world.openfoodfacts.org/product/5905784346861,0,0.5,2,6
 carrefour,CARREFOUR FRANCE Zestaw BURRITOS 510 g,Pozostałe,100,326,9.4,55,7.3,https://world.openfoodfacts.org/product/3245412563034,2.3,3.2,0.9,0.9
 carrefour,Carrefour Syrop z agawy,Pozostałe,100,312,0,78,0,https://world.openfoodfacts.org/product/5905784348278,0,74,0,0
@@ -3919,7 +3923,7 @@ carrefour,Carrefour Baton orzechowy,Słodycze,100,486,8.6,55,25,https://world.op
 carrefour,Carrefour Bingo o smaku czekoladowym 225 g,Słodycze,225,1120,14.18,139.5,54,https://world.openfoodfacts.org/product/3270190178866,9.68,83.25,24.75,1.12
 carrefour,Carrefour BIO Herbatniki Gorzka czekolada 150 g,Słodycze,150,740,11.25,90,36,https://world.openfoodfacts.org/product/3270190128519,7.05,52.5,22.5,0.6
 carrefour,Carrefour Biszkopty,Słodycze,100,365,9.41,70.59,5.29,https://world.openfoodfacts.org/product/5905784355757,2.35,37.06,2.94,
-carrefour,Carrefour CAPPUCCINO O smaku czekoladowym,Słodycze,144,63,1.58,12.53,0.72,https://world.openfoodfacts.org/product/3560071568948,0.72,10.37,0.72,0.1
+carrefour,Carrefour Cappuccino o smaku czekoladowym 8 x 18 g (po przygotowaniu),Kawa,150,66,1.65,13.05,0.75,https://world.openfoodfacts.org/product/3560071568948,0.75,10.8,0.75,0.1
 carrefour,Carrefour Ciasteczka owsiane 190 g,Słodycze,190,969,10.83,121.6,47.5,https://world.openfoodfacts.org/product/5905784344348,5.7,64.6,20.9,0.44
 carrefour,Carrefour Ciastka kruche kakaowe 150 g,Słodycze,100,520,5.6,55.9,29.9,https://world.openfoodfacts.org/product/5905784355221,2.6,32.1,11.14,0.46
 carrefour,Carrefour Ciastka zbożowe 300 g,Słodycze,100,429,7,68,13,https://world.openfoodfacts.org/product/5905784346083,6,23,5.8,0.7
@@ -3999,7 +4003,7 @@ dino,Dawtona Dżem truskawkowy niskosłodzony 280 g,Dżemy i kremy,100,138,0,34,
 dino,Dawtona Powidła śliwkowe 280 g,Dżemy i kremy,100,227,1.4,54,0.6,https://world.openfoodfacts.org/product/5901713009494,2.7,54,0,0
 dino,Famil-Jada Dżem z czarnej porzeczki niskosłodzony 280 g,Dżemy i kremy,100,146,0.5,35,0.5,https://world.openfoodfacts.org/product/5901002006944,,35,0,0.01
 dino,Łowicz Dżem z truskawek i limonki niskosłodzony. 280 g,Dżemy i kremy,100,141,0.5,34,0.5,https://world.openfoodfacts.org/product/5900397742437,,34,0.1,0
-dino,Herbapol Herbaciany ogród - Prosto z lasu.,Herbata,50,0,0,0,0,https://world.openfoodfacts.org/product/5900956000688,0,0,0,0
+dino,Herbapol Herbaciany ogród - Prosto z lasu.,Herbata,250,0,0,0,0,https://world.openfoodfacts.org/product/5900956000688,0,0,0,0
 dino,Danone Gratka 115 g,Jogurty,115,84,2.07,16.22,1.15,https://world.openfoodfacts.org/product/59070573,,14.15,0.69,0.07
 dino,Danone Jagoda borowka 290 g,Jogurty,100,64,1.6,12.4,0.8,https://world.openfoodfacts.org/product/5900643037195,0.1,10.9,0.5,0.07
 dino,Danone Napój jogurtowy o smaku brzoskwinia-marakuja 290 g,Jogurty,100,69,1.6,13.6,0.8,https://world.openfoodfacts.org/product/5900643032725,0.02,12.2,0.5,0.08
@@ -4098,12 +4102,12 @@ dino,DecoMorreno Czekolada do picia o obniżonej zawartości tłuszczu 200 g,Sł
 dino,E. Wedel Pralinki Peanut Butter 136 g,Słodycze,136,751,9.93,76.16,44.88,https://world.openfoodfacts.org/product/5901588058429,0.95,73.44,21.76,0.82
 dino,E. Wedel WW 47 g,Słodycze,47,254,3.52,28.67,13.63,https://world.openfoodfacts.org/product/59042396,1.32,24.91,7.05,0.09
 dino,E. Wedel WW gorzka czekolada 47 g,Słodycze,47,227,3.2,23.97,12.69,https://world.openfoodfacts.org/product/59076803,2.54,20.68,7.05,0.06
-dino,Fritt Cukierek rozpuszczalny o smaku brzoskwiniowym 56 g (4 x 14 g),Słodycze,56,235,0.28,45.92,5.15,https://world.openfoodfacts.org/product/4000415578602,,27.44,2.8,0.04
-dino,Fritt Cukierek rozpuszczalny o smaku czarnej porzeczki i jabłka 56 g (4 x 14 g),Słodycze,56,234,0.28,45.36,5.15,https://world.openfoodfacts.org/product/4000415579005,,27.44,2.8,0.04
-dino,Fritt Cukierek rozpuszczalny o smaku jagodowym 56 g (4 x 14 g),Słodycze,56,233,0.28,45.36,5.15,https://world.openfoodfacts.org/product/4000415578800,,27.44,2.8,0.04
-dino,Fritt Cukierek rozpuszczalny o smaku mango 56 g (4 x 14 g),Słodycze,56,235,0.28,45.92,5.1,https://world.openfoodfacts.org/product/4000415578701,,28,2.8,0.04
-dino,Fritt Cukierek rozpuszczalny o smaku marakui z wiórkami kokosowymi 56 g (4 x 14 g),Słodycze,56,234,0.28,44.8,5.49,https://world.openfoodfacts.org/product/4000415579104,,27.44,3.14,0.04
-dino,Fritt Cukierek rozpuszczalny o smaku truskawkowym i malinowym 56 g (4 x 14 g),Słodycze,56,233,0.28,45.36,5.15,https://world.openfoodfacts.org/product/4000415578909,,27.44,2.8,0.04
+dino,Fritt Cukierek rozpuszczalny o smaku brzoskwiniowym 56 g (4 x 14 g),Słodycze,14,59,0.07,11.48,1.29,https://world.openfoodfacts.org/product/4000415578602,,6.86,0.7,0.01
+dino,Fritt Cukierek rozpuszczalny o smaku czarnej porzeczki i jabłka 56 g (4 x 14 g),Słodycze,14,58,0.07,11.34,1.29,https://world.openfoodfacts.org/product/4000415579005,,6.86,0.7,0.01
+dino,Fritt Cukierek rozpuszczalny o smaku jagodowym 56 g (4 x 14 g),Słodycze,14,58,0.07,11.34,1.29,https://world.openfoodfacts.org/product/4000415578800,,6.86,0.7,0.01
+dino,Fritt Cukierek rozpuszczalny o smaku mango 56 g (4 x 14 g),Słodycze,14,59,0.07,11.48,1.28,https://world.openfoodfacts.org/product/4000415578701,,7,0.7,0.01
+dino,Fritt Cukierek rozpuszczalny o smaku marakui z wiórkami kokosowymi 56 g (4 x 14 g),Słodycze,14,58,0.07,11.2,1.37,https://world.openfoodfacts.org/product/4000415579104,,6.86,0.79,0.01
+dino,Fritt Cukierek rozpuszczalny o smaku truskawkowym i malinowym 56 g (4 x 14 g),Słodycze,14,58,0.07,11.34,1.29,https://world.openfoodfacts.org/product/4000415578909,,6.86,0.7,0.01
 dino,Goplana Grzeski gofre 33 g,Słodycze,33,177,2.9,18.15,10.23,https://world.openfoodfacts.org/product/5900352013015,,9.24,4.62,0.14
 dino,Goplana Jeżyki Kokos imp 140 g,Słodycze,140,676,7.28,88.2,32.2,https://world.openfoodfacts.org/product/5900352004044,3.96,64.4,19.6,0.62
 dino,Goplana Mega Grześki 48 g,Słodycze,48,251,4.7,26.88,13.44,https://world.openfoodfacts.org/product/5900394007553,1.54,17.76,8.16,0.15
@@ -4217,11 +4221,11 @@ kaufland,Mlekovita WYPASIONA kaszka manna z jagodami 150 g,Desery,150,144,4.95,2
 kaufland,"Müller Riso Vegan, czekoladowe 160 g",Desery,160,178,1.92,27.04,6.72,https://world.openfoodfacts.org/product/42419075,,13.92,6.24,0.27
 kaufland,Herbapol Dżem z Czarnych Porzeczek,Dżemy i kremy,100,141,0.5,33,0.5,https://world.openfoodfacts.org/product/5900956201054,,30,,0.01
 kaufland,Owolovo Truskawkowo Mus jabłkowo-truskawkowy 200 g,Dżemy i kremy,200,102,1,26,1,https://world.openfoodfacts.org/product/5901958612367,2.6,22,0.2,0.02
-kaufland,Przekąski persymona-pomarańcza Bob Snail (Ślimak Bob) 6 x 10 g,Dżemy i kremy,60,216,2.34,46.2,0.54,https://world.openfoodfacts.org/product/4820219343202,10.8,34.2,0,0
+kaufland,Przekąski persymona-pomarańcza Bob Snail (Ślimak Bob) 6 x 10 g,Dżemy i kremy,10,36,0.39,7.7,0.09,https://world.openfoodfacts.org/product/4820219343202,1.8,5.7,0,0
 kaufland,Pszczelarz kozacki Miód nektarowy wielokwiatowy 1.3kg,Dżemy i kremy,100,321,0.3,80,0,https://world.openfoodfacts.org/product/5907675800056,0,74,0,0
 kaufland,Sante Masło orzechowe 350 g,Dżemy i kremy,100,616,24,14,50,https://world.openfoodfacts.org/product/5900617012197,6.9,9,8.8,0.73
 kaufland,Sir Adalbert's tea Herbata czarna earl grey liściasta 100 g,Herbata,100,0,0.01,0.01,0,https://world.openfoodfacts.org/product/4792331001226,0.01,0.01,0.01,0.01
-kaufland,Kaufland Świeże jaja z chowu na wolnym wybiegu 10 x 60 g,Jaja,100,143,12.56,0.72,9.51,https://world.openfoodfacts.org/product/4047905909713,0,0,0,0.35
+kaufland,Kaufland Świeże jaja z chowu na wolnym wybiegu 10 x 60 g,Jaja,50,72,6.28,0.36,4.75,https://world.openfoodfacts.org/product/4047905909713,0,0,0,0.17
 kaufland,Bakoma Skyr naturalny 150 g,Jogurty,150,120,11.25,12,3,https://world.openfoodfacts.org/product/5900197031755,0,12,2.1,0.2
 kaufland,Danone danonino 6 iaurturi,Jogurty,100,92,6.3,11,2.5,https://world.openfoodfacts.org/product/5941209014588,0.2,10.3,1.6,0.09
 kaufland,Jovi Jogurt typu greckiego 360 g,Jogurty,100,91,4.1,5.1,6,https://world.openfoodfacts.org/product/5903767009147,,5.1,3.6,0.15
@@ -4325,7 +4329,7 @@ kaufland,House of Asia Tom Yum pasta 113,Pasty i dipy,100,278,3.7,36,12,https://
 kaufland,Primavika Smalczyk wegetariański 160 g,Pasty i dipy,160,755,3.68,6.88,78.4,https://world.openfoodfacts.org/product/5900672302325,2.08,5.28,28.8,2.08
 kaufland,Wege Siostry Toczony z nerkowców z kozieradką i suszonymi grzybami 150 g,Pasty i dipy,150,654,12.6,7.65,62.4,https://world.openfoodfacts.org/product/5900779395053,5.1,0.75,36.3,1.2
 kaufland,Bio wafle ryżowe z solą morską 130 g,Pieczywo pakowane,130,499,10.4,104,3.25,https://world.openfoodfacts.org/product/4337185835957,4.42,0.65,0.78,0
-kaufland,Dakri Bułki &quot;U&quot; 8 x 45 g,Pieczywo pakowane,100,339,9.6,60,6.3,https://world.openfoodfacts.org/product/5901688800126,,5.7,4.4,1.5
+kaufland,Dakri Bułki &quot;U&quot; 8 x 45 g,Pieczywo pakowane,45,153,4.32,27,2.84,https://world.openfoodfacts.org/product/5901688800126,,2.57,1.98,0.68
 kaufland,Familijna Chleb Wiejski 600 g,Pieczywo pakowane,100,242,7.1,49,1.3,https://world.openfoodfacts.org/product/5902991100101,3,0.8,0.3,1.5
 kaufland,Familijna Chleb żytni 100% bez drożdży 480 g,Pieczywo pakowane,100,247,4.9,46,3.7,https://world.openfoodfacts.org/product/5902991102440,4.9,1.7,0.5,0.75
 kaufland,K-Classic Placki pełnoziarniste tortilla 370 g,Pieczywo pakowane,100,309,10,47,7.6,https://world.openfoodfacts.org/product/5900928089536,6.6,3.3,1.8,1.1
@@ -4334,7 +4338,7 @@ kaufland,Kaufland Chleb TOSTOWY,Pieczywo pakowane,100,279,8,54,3,https://world.o
 kaufland,Kaufland Chleb Tygrysi,Pieczywo pakowane,100,256,7.7,48,3,https://world.openfoodfacts.org/product/5906485978849,3.3,1.2,0.5,0
 kaufland,Kaufland Classic Chleb Tostowy 4 ziarna 500 g,Pieczywo pakowane,100,280,10,46,5.4,https://world.openfoodfacts.org/product/4047905009437,3.8,2.5,0.4,1.2
 kaufland,Kaufland classic Chleb tostowy pełnoziarnisty,Pieczywo pakowane,100,247,10,44,2.3,https://world.openfoodfacts.org/product/29030606,4.9,2.8,0.4,1.2
-kaufland,Vital Bułki śniadaniowe 6 x 50 g,Pieczywo pakowane,100,260,9.7,51,1.4,https://world.openfoodfacts.org/product/5906395431021,3.2,1.1,0.4,1.4
+kaufland,Vital Bułki śniadaniowe 6 x 50 g,Pieczywo pakowane,50,130,4.85,25.5,0.7,https://world.openfoodfacts.org/product/5906395431021,1.6,0.55,0.2,0.7
 kaufland,K-Classic Kluski 500 g,Pierogi i kluski,100,184,5.3,38,0.5,https://world.openfoodfacts.org/product/4337185601033,2.6,4.5,0.5,0.92
 kaufland,Kaufland Kluski drożdżowe na parze 400 g,Pierogi i kluski,100,232,7.6,48,1,https://world.openfoodfacts.org/product/4047902004893,0.7,3.3,0.19,11.47
 kaufland,Kaufland Krokiety z pieczarkami i serem mozzarella,Pierogi i kluski,100,225,6.4,27,9.7,https://world.openfoodfacts.org/product/4047905012185,,3.1,1.2,1.08
@@ -4379,7 +4383,7 @@ kaufland,Kaufland Classic Ryż biały długoziarnisty 600 g,Ryż i kasze,100,351
 kaufland,Kaufland Kasza gryczana prażona 4 x 100 g,Ryż i kasze,100,347,17,63,3.1,https://world.openfoodfacts.org/product/4047905903704,5.9,0.7,0.6,0.05
 kaufland,Kaufland Kasza Jaglana,Ryż i kasze,100,348,12,69,1.8,https://world.openfoodfacts.org/product/4047905903742,2.5,0.5,0.2,0.05
 kaufland,Kupiec Wafle ryżowe ze słonecznikiem 90g,Ryż i kasze,90,342,7.2,68.4,3.6,https://world.openfoodfacts.org/product/5906747179571,7.2,7.2,0,0.9
-kaufland,"Sonko Wafle ryżowo-kukurydziane o smaku mango 4 x 17,5 g",Ryż i kasze,70,355,3.43,46.9,16.8,https://world.openfoodfacts.org/product/5902180940136,1.19,20.3,14,0.04
+kaufland,"Sonko Wafle ryżowo-kukurydziane o smaku mango 4 x 17,5 g",Ryż i kasze,17.5,89,0.86,11.73,4.2,https://world.openfoodfacts.org/product/5902180940136,0.3,5.08,3.5,0.01
 kaufland,Almette Puszysty serek jogurtowy 150 g,Sery,150,390,10.65,6,36,https://world.openfoodfacts.org/product/5902899117225,,6,24,0.72
 kaufland,Almette Serek twarogowy z ziołami 150 g,Sery,150,388,9.15,3.45,37.5,https://world.openfoodfacts.org/product/5902899143873,,3.45,25.5,1.19
 kaufland,Hochland Gouda 135 g,Sery,135,475,33.75,0,37.8,https://world.openfoodfacts.org/product/5902899140728,0,0,27,1.99
@@ -4633,7 +4637,7 @@ lidl,Chef Select Pancakes Z Sosem Malinowym,Dania gotowe,100,281,6.1,41.3,9.8,ht
 lidl,Chef select Sałatka warzywna z jajkiem,Dania gotowe,100,208,2.8,7.7,17.9,https://world.openfoodfacts.org/product/4056489282457,2.8,3.3,1.3,1.3
 lidl,Chef Select To Go Lidl Sushi box hiru,Dania gotowe,100,149,5.3,23,3.4,https://world.openfoodfacts.org/product/20917234,,5.5,0.8,1.55
 lidl,Chef Select Łazanki z kapustą i grzybami,Dania gotowe,100,115,2.6,12.6,5.4,https://world.openfoodfacts.org/product/4056489586746,2.9,1.8,0.4,1.2
-lidl,"Dobra kaloria Roślinne kotlety mielone 2 sztuki, 200 g opakowanie",Dania gotowe,200,580,40,22,36,https://world.openfoodfacts.org/product/5903548004224,6.8,6,3.6,2.2
+lidl,"Dobra kaloria Roślinne kotlety mielone 2 sztuki, 200 g opakowanie",Dania gotowe,100,290,20,11,18,https://world.openfoodfacts.org/product/5903548004224,3.4,3,1.8,1.1
 lidl,Farma świętokrzyska Bio bigos wegański 420 g,Dania gotowe,420,319.2,6.72,37,13.9,https://world.openfoodfacts.org/product/5902537540071,9.66,10.5,11.8,4.2
 lidl,Heinz 5 rodzajów fasoli w sosie pomidorowym 415 g,Dania gotowe,415,361.1,22.4,56.4,0.83,https://world.openfoodfacts.org/product/5000157072023,17.8,19.5,0,2.49
 lidl,Lidl Chef Select Kotlet drobiowy z puree ziemniaczanym i marchewką z groszkiem,Dania gotowe,100,116,5.3,11.9,4.9,https://world.openfoodfacts.org/product/4335619094833,1.7,3.6,0.8,2.7
@@ -4703,10 +4707,10 @@ lidl,Lipton Yellow Label granulowana 100g,Herbata,100,4,0.5,0,0,https://world.op
 lidl,Lord Nelson Bio Herbatka Owocowa 40g (napar),Herbata,250,2.5,0,0.5,0,https://world.openfoodfacts.org/product/4056489007159#typowe,0,0,0,0
 lidl,"Lord Nelson Bio mięta organic 20 x 1,5 g (napar)",Herbata,250,2.5,0,0.5,0,https://world.openfoodfacts.org/product/4056489007135#typowe,0,0,0,0
 lidl,Lord Nelson Herbata zielona z melisą i skórką cytryny (napar),Herbata,250,2.5,0,0.5,0,https://world.openfoodfacts.org/product/20498115#typowe,0,0,0,0
-lidl,Westminster Herbata ziołowa miętowa 25 x 2 g,Herbata,50,0,0,0.13,0,https://world.openfoodfacts.org/product/28033752,,0.13,0,0
+lidl,Westminster Herbata ziołowa miętowa 25 x 2 g,Herbata,250,0,0,0.65,0,https://world.openfoodfacts.org/product/28033752,,0.65,0,0
 lidl,Aktów Jaja z wolnego wybiegu 10 szt.,Jaja,53,74.2,6.62,0.32,5.14,https://world.openfoodfacts.org/product/20061548#typowe,0,0.32,1.48,0.19
-lidl,Lidl Świeże jaja ściólkowe M,Jaja,100,71,6.4,0.3,4.9,https://world.openfoodfacts.org/product/20932756,0,0,1.5,0
-lidl,Złota Nioska Jaja świeże,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/20325770,0,0,3,0.4
+lidl,Lidl Świeże jaja ściólkowe M,Jaja,50,71,6.4,0.3,4.9,https://world.openfoodfacts.org/product/20932756,0,0,1.5,0
+lidl,Złota Nioska Jaja świeże,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/20325770,0,0,1.74,0.23
 lidl,Jogurt bananowy Pilos 350g,Jogurty,350,297.5,11.5,39.9,8.75,https://world.openfoodfacts.org/product/20799939,,38.9,5.95,0.39
 lidl,Jovi Duet jogurt pitny Truskawka-Kiwi 350 g,Jogurty,100,56,1.7,10.5,0.8,https://world.openfoodfacts.org/product/5903767000687,,9.5,,0.13
 lidl,Kabako milk Jogurt owocowy 200 g,Jogurty,200,106,3.6,16.4,3,https://world.openfoodfacts.org/product/5900168530300,,13,2,0.12
@@ -5057,7 +5061,7 @@ lidl,Tarczyński Rośl-inne Kabanosy Oryginalne 90 g,Produkty roślinne,90,386.1
 lidl,Vemondo Bio Deser kokosowy truskawka-banan,Produkty roślinne,100,103,0.7,12.9,5.3,https://world.openfoodfacts.org/product/5901104005098,,7.6,5.1,0
 lidl,Vemondo Bio Tempeh wędzony 200 g,Produkty roślinne,200,362,44,10,16,https://world.openfoodfacts.org/product/4056489443773,1.4,0.8,2,4
 lidl,Vemondo Burger roślinny ze słonecznikiem 170 g,Produkty roślinne,170,588.2,44.4,15,38.1,https://world.openfoodfacts.org/product/4056477353718,4.59,5.78,3.57,2.18
-lidl,"Vemondo Burgery sojowe 4 szt, 220 g",Produkty roślinne,220,512.6,24,26.4,30.8,https://world.openfoodfacts.org/product/4056489785224,16.9,4.84,2.42,3.61
+lidl,"Vemondo Burgery sojowe 4 szt, 220 g",Produkty roślinne,55,128,6,6.6,7.7,https://world.openfoodfacts.org/product/4056489785224,4.23,1.21,0.61,0.9
 lidl,Vemondo Kiełbaski roślinne w stylu węgierskim 180 g,Produkty roślinne,180,534.6,41,23.6,28.4,https://world.openfoodfacts.org/product/4056489717447,10.3,6.12,7.56,2.86
 lidl,Vemondo Kiełbaski sojowe 225 g,Produkty roślinne,225,524.2,24.5,27,31.5,https://world.openfoodfacts.org/product/4056489785217,17.3,4.95,2.48,3.69
 lidl,Vemondo Kokos naturalny 400 g,Produkty roślinne,100,61,0.7,6.4,3.7,https://world.openfoodfacts.org/product/5901104005302,8.39,0.5,3.3,0.01
@@ -5079,7 +5083,7 @@ lidl,Vemondo Wegański blok w stylu greckim 150 g,Produkty roślinne,150,390,2.2
 lidl,Vemondo Wegańskie plastry kanapkowe 100 g,Produkty roślinne,100,104,4.2,8.8,5,https://world.openfoodfacts.org/product/4056489785194,3.5,0.7,0.4,3.2
 lidl,Z Gruntu Dobre Vege Plastry 100g,Produkty roślinne,100,104,4.2,8.8,5,https://world.openfoodfacts.org/product/5900562582110,3.5,0.7,1.7,3.15
 lidl,POP CROP Piramidki gryczane 80 g,Przekąski,80,305.6,9.28,61.4,2.08,https://world.openfoodfacts.org/product/5904730218054,2.32,1.12,0.48,1.36
-lidl,Kania Bulion drobiowy 140 g,Przyprawy,140,5.6,0.7,0.98,0.7,https://world.openfoodfacts.org/product/4056489441830,0,0.84,0.14,1.54
+lidl,Kania Bulion drobiowy 140 g (po przygotowaniu),Przyprawy,250,10,1.25,1.75,1.25,https://world.openfoodfacts.org/product/4056489441830,0,1.5,0.25,2.75
 lidl,Kania bulion warzywny z liściem selera 120 g (12 x 10 g),Przyprawy,10,25.3,0.62,2.3,1.5,https://world.openfoodfacts.org/product/20420628,0,0.84,0.91,4.26
 lidl,Kania Sól z przyprawami do pomidorów 50 g,Przyprawy,50,75,2.5,12.5,1,https://world.openfoodfacts.org/product/20507640#typowe,2.5,4,0.25,25
 lidl,Lidl Kurkuma mielona 20 g,Przyprawy,20,62.4,2,9,0.6,https://world.openfoodfacts.org/product/20819231#typowe,4.2,0.6,0.36,0
@@ -5148,7 +5152,7 @@ lidl,Tiradell Sardynki w oleju słonecznikowym z chili 250 g,Ryby,250,375,26.5,5
 lidl,Łosoś Lidl,Ryby,100,203,21.3,0,13.1,https://world.openfoodfacts.org/product/2824454002391,0,0,1.9,0.1
 lidl,1001 Delights Bio Kulki jaglane solone 150 g,Ryż i kasze,100,356,11.3,70.2,2.3,https://world.openfoodfacts.org/product/20754648,8.45,0.5,0.3,0.6
 lidl,Alesto Chia nasiona szałwii hiszpańskiej 160 g,Ryż i kasze,160,692.8,34.1,8.16,46.4,https://world.openfoodfacts.org/product/20949150,52.8,1.6,5.28,0
-lidl,Castello Wafle ryżowe musli 100 g (10 x 10 g),Ryż i kasze,100,390,8,78,5,https://world.openfoodfacts.org/product/20858667,5,5,2,0.2
+lidl,Castello Wafle ryżowe musli 100 g (10 x 10 g),Ryż i kasze,10,39,0.8,7.8,0.5,https://world.openfoodfacts.org/product/20858667,0.5,0.5,0.2,0.02
 lidl,Golden Sun Bio Organic Weisser Quinoa 400g,Ryż i kasze,100,369,13.8,60.1,6.8,https://world.openfoodfacts.org/product/20137694,6.2,3.6,0.9,0.02
 lidl,Golden Sun Lidl Kasza manna,Ryż i kasze,100,352,9.5,74.2,1.3,https://world.openfoodfacts.org/product/20282516,2.5,0.1,0.2,0.01
 lidl,Golden Sun Ryż długoziarnisty 500 g,Ryż i kasze,100,361,7.5,77.4,1.9,https://world.openfoodfacts.org/product/20620387,1.9,1.2,0.5,0.02
@@ -5334,7 +5338,7 @@ lidl,Lidl Sernik Baskijski,Słodkie wypieki,100,322,7.3,20.4,23.5,https://world.
 lidl,Lidl Sernik nowojorski lion,Słodkie wypieki,100,359,4.8,38.9,17.1,https://world.openfoodfacts.org/product/5907803705451,,,,
 lidl,Alesto Mini batoniki z nerkowcow 6 x 17 g,Słodycze,17,76,1.58,8.11,3.94,https://world.openfoodfacts.org/product/4056489811602,0.83,7.02,0.65,0
 lidl,Beskidzkie łakocie Paluszki w mlecznej czekoladzie 50 g,Słodycze,50,233,4.15,30.5,10,https://world.openfoodfacts.org/product/5907029004994,2.25,13,5.5,0.46
-lidl,Crownfield Batoniki musli czekolada-banan 200 g,Słodycze,200,896,13.6,131.2,33.6,https://world.openfoodfacts.org/product/20080662,8,63.2,14.4,0.56
+lidl,Crownfield Batoniki musli czekolada-banan 8 x 25 g,Słodycze,25,112,1.7,16.4,4.2,https://world.openfoodfacts.org/product/20080662,1,7.9,1.8,0.07
 lidl,Crownfield Ciastka czekoladowe,Słodycze,100,364,8.1,77,1.5,https://world.openfoodfacts.org/product/4056489815792,,21.5,,0.67
 lidl,Cukiernia Lidla Strucla owocowa 450 g,Słodycze,100,330,6,55,9,https://world.openfoodfacts.org/product/4056489282273#typowe,1.5,25,3.5,0.6
 lidl,Czekolateria Baton Arcy Orzech,Słodycze,100,536,9.3,46,34,https://world.openfoodfacts.org/product/20760571,,45,17,0.57
@@ -5524,7 +5528,7 @@ netto,HAPPY VEGE Wegańskie pierogi à la mięsne 300 g,Dania gotowe,100,198,9.4
 netto,Idk Yamato Sushi 200 g,Dania gotowe,200,330,10,46,11.4,https://world.openfoodfacts.org/product/5903896154060,3.2,9.2,2.6,3.6
 netto,Smak Mak Smakowite pierogi z kapustą i grzybami 1 kg,Dania gotowe,100,120,3.5,19,2.5,https://world.openfoodfacts.org/product/5907749200119,2.9,1.1,0.2,0.8
 netto,"E.Wedel Karmel Love!,Krem Wedlowski 230 g",Dżemy i kremy,230,1325,13.11,121.9,87.4,https://world.openfoodfacts.org/product/59071778,0.23,121.9,25.3,0.87
-netto,Adventure Herbata czarna ekspresowa 75 x 2 g,Herbata,150,2,0,0.45,0.01,https://world.openfoodfacts.org/product/5901812230881,0,0,0,0.01
+netto,Adventure Herbata czarna ekspresowa 75 x 2 g,Herbata,250,3.3,0,0.75,0.02,https://world.openfoodfacts.org/product/5901812230881,0,0,0,0.02
 netto,Rohus Kiełbasa z gęsiną,Kiełbasy i parówki,100,261,21,1.5,19,https://world.openfoodfacts.org/product/5901529100835,,0.7,8.1,2.3
 netto,Sokołów Parówki wieprzowe 480 g,Kiełbasy i parówki,100,260,12,1.3,23,https://world.openfoodfacts.org/product/5906712807331,0.02,0.6,9,2.1
 netto,Go Eko Ekologiczne oliwki czarne z pestką 290 g,Konserwy,100,263,1.8,2.2,27,https://world.openfoodfacts.org/product/5901529064175,1.8,0,5.3,3
@@ -5570,7 +5574,7 @@ netto,Contimax Filety z makreli w oleju z papryką jalapeno 102 g (170 g),Ryby,1
 netto,Fischer King Stek z łososia 125 g,Ryby,125,264,12.12,0,23.75,https://world.openfoodfacts.org/product/5901576050404,0,0,4.12,2.5
 netto,Graal Filety śledziowe w oleju roślinnym. 170 g,Ryby,170,604,17,0,59.5,https://world.openfoodfacts.org/product/5903895625738,0,0,6.63,1.24
 netto,Pirat Sardynki w sosie pomidorowym 110 g,Ryby,110,116,11.77,5.28,5.06,https://world.openfoodfacts.org/product/5901069004648,0.84,5.06,0.99,0.99
-netto,Port Netto Łosoś Atlantycki (2x125g),Ryby,100,242,20,0,18,https://world.openfoodfacts.org/product/5901529085859,0,0,2.6,0.39
+netto,Port Netto Łosoś Atlantycki (2x125g),Ryby,125,302,25,0,22.5,https://world.openfoodfacts.org/product/5901529085859,0,0,3.25,0.49
 netto,Port netto Łosoś atlantycki wędzony na zimno 100 g,Ryby,100,179,20,0.5,11,https://world.openfoodfacts.org/product/5901129089646,0.13,0.5,1.7,2.9
 netto,Spomlek Ser żółty królewiecki szwajcar 135 g,Sery,135,463,35.1,1.76,35.1,https://world.openfoodfacts.org/product/5900857009032,0,0,24.3,1.35
 netto,U Jędrusia Naleśniki z serem twarogowym 300 g,Sery,100,168,7.8,26,3.5,https://world.openfoodfacts.org/product/5901398075289,1.17,12,0.5,0.28
@@ -5676,7 +5680,7 @@ spolem,Rolnik Żurek na zakwasie koncentrat 340 g,Zupy,100,52,0.9,11,0.5,https:/
 stokrotka,Lorenz Crunchips pieczone żeberka 140 g,Chipsy i przekąski,140,741,8.12,70,46.2,https://world.openfoodfacts.org/product/5905187114760,6.16,3.64,3.5,1.82
 stokrotka,Moggi Chrupki kukurydziane o smaku cebulki ze śmietanką 70 g,Chipsy i przekąski,70,351,5.6,41.3,18.2,https://world.openfoodfacts.org/product/5997347539575,,2.1,8.4,2.1
 stokrotka,Łowicz Dżem truskawkowy 280 g,Dżemy i kremy,100,142,0.5,35,0.5,https://world.openfoodfacts.org/product/5900397006744,,35,0.1,0
-stokrotka,O! jajo Jaja świeże L,Jaja,100,139,12.5,0.6,9.7,https://world.openfoodfacts.org/product/2098765703036,0,0,3,0.4
+stokrotka,O! jajo Jaja świeże L,Jaja,58,81,7.25,0.35,5.63,https://world.openfoodfacts.org/product/2098765703036,0,0,1.74,0.23
 stokrotka,Stokrotka Jogurt naturalny typu greckiego,Jogurty,100,124,3.6,5,10,https://world.openfoodfacts.org/product/5907468141038,,5,6.5,0.1
 stokrotka,Goodvalley Parówki 100% polskiej szynki 200 g,Kiełbasy i parówki,200,624,28,1.8,56,https://world.openfoodfacts.org/product/5908226814737,,1.2,22,11
 stokrotka,Tarczyński Naturalne Parówki 100% z szynki 2 x 100 g,Kiełbasy i parówki,100,291,15,1.3,25,https://world.openfoodfacts.org/product/5908230526602,0,1.1,9.4,2.1
